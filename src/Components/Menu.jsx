@@ -6,7 +6,7 @@ function Menu() {
             <div id="menu" className="w-full h-auto p-8 flex flex-col items-center">
                 <h1 className="text-center text-3xl mt-9 text-white">Popular Coffee Menus</h1>
                 <div className="border-2 border-sky-700 w-5 mb-4"></div>
-                <div className="w-full h-auto flex flex-wrap flex-row justify- items-center">
+                <div className="w-full h-auto flex flex-wrap  justify-center items-center">
                     {Array(4).fill(null).map((_, index) => (
                         <div key={index} className="shadow-lg bg-white md:w-[600px] w-[250px] h-auto flex md:flex-row flex-col rounded-lg m-4">
                             <div className="rounded-full md:w-full w-full">
