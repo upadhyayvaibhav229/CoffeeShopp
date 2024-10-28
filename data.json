@@ -1,0 +1,42 @@
+{
+  "menuList": [
+    {
+      "id": 1,
+      "name": "Espresso",
+      "img": "https://www.nestleprofessional.in/sites/default/files/2021-08/Espresso_0.jpg",
+      "desc": "A strong and bold coffee brewed by forcing hot water through finely-ground coffee.",
+      "price": 2.50
+    },
+    {
+      "id": 2,
+      "name": "Latte",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNw7oOeCCCIv_D1ok78I61XqgUl1ZU_S2DA&s",
+      "desc": "A creamy coffee made with espresso and steamed milk, topped with a light foam.",
+      "price": 3.50
+    },
+    {
+      "id": 3,
+      "name": "Cappuccino",
+      "img": "https://brewespressocoffee.com/wp-content/uploads/2022/01/Cappuccino-in-white-cup-on-a-saucer.jpg",
+      "desc": "A rich coffee with equal parts espresso, steamed milk, and milk foam.",
+      "price": 3.75
+    },
+    {
+      "id": 4,
+      "name": "Americano",
+      "img": "https://assets.beanbox.com/blog_images/AB7ud4YSE6nmOX0iGlgA.jpeg",
+      "desc": "A simple coffee made by diluting espresso with hot water.",
+      "price": 2.00
+    },
+    {
+      "id": 5,
+      "name": "Mocha",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB4MdilQ6mnbIf-iDhzNDPEkgHGOxRmiTSfQ&s",
+      "desc": "A chocolate-flavored variant of a latte, made with espresso, steamed milk, and chocolate syrup.",
+      "price": 4.00
+    }
+  ],
+  "contact": {
+    
+  }
+}
